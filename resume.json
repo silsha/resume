@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Felix Arndt",
+    "label": "Web developer",
+    "picture": "",
+    "email": "hallo@silsha.me",
+    "phone": "+49 176 32637316",
+    "website": "https://silsha.me",
+    "summary": "",
+    "location": {
+      "address": "U4, 10",
+      "postalCode": "68161",
+      "city": "Mannheim",
+      "countryCode": "DE",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "silsha",
+        "url": "https://twitter.com/silsha"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "millenium Werbeagentur GmbH",
+      "position": "Trainee",
+      "website": "http://millenium.de",
+      "startDate": "2012-09-01",
+      "endDate": "2013-03-01",
+      "highlights": []
+    },
+    {
+      "company": "Donner & Doria Werbeagentur GmbH",
+      "position": "Web developer",
+      "website": "http://donner-doria.de",
+      "startDate": "2013-08-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "fnordcordia GbR",
+      "position": "Executive partner",
+      "website": "http://fnordcordia.eu",
+      "startDate": "2013-10-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Freifunk Rhein-Neckar e.V.",
+      "position": "Public relations",
+      "website": "http://ffrn.de",
+      "startDate": "2014-08-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Private Handelsschule Dr. H. Stracke",
+      "area": "Media design and media management",
+      "studyType": "Advanced Vocational Certificate of Education",
+      "startDate": "2010-08-01",
+      "endDate": "2012-09-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Node.js",
+        "jQuery",
+        "PHP",
+        "MySQL",
+        "RethinkDB"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
